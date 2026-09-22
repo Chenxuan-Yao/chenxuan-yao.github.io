@@ -54,6 +54,5 @@ Research interests: AI infrastructure, Storage for AI.
 
 ## Skills
 
-- **Programming:** Python, C
-- **Frameworks:** PyTorch, DeepSpeed, Horovod
-- **Interests:** Swimming, Cooking, Basketball, Badminton
+- **Programming:** Python, C++, Cuda
+- **Interests:** Swimming, Cooking, Badminton
