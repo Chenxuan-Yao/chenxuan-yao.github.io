@@ -1,4 +1,18 @@
 theme: jekyll-theme-minimal
 
 title: Chenxuan Yao
-description: Ph.D. Student at Huazhong University of Science and Technology
+
+logo: /photo.jpg
+
+description: >
+  Ph.D. Student<br>
+  School of Computer Science and Technology<br>
+  Huazhong University of Science and Technology<br><br>
+  Wuhan, China<br><br>
+  Email: <a href="mailto:deadfffool@hust.edu.cn">deadfffool@hust.edu.cn</a><br><br>
+  <a href="https://github.com/deadfffool">GitHub</a> |
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=2xGNmhYAAAAJ">Google Scholar</a> |
+  <a href="https://dblp.org/pid/351/0897.html">DBLP</a> |
+  <a href="https://orcid.org/0000-0002-1143-052X">ORCID</a>
+
+theme: jekyll-theme-minimal

@@ -1,19 +1,6 @@
-# Chenxuan Yao
-
-<img src="photo.jpg" width="140">
-
-Ph.D. Student  
-School of Computer Science and Technology  
-Huazhong University of Science and Technology
-
-Wuhan, China
-
-Email: [deadfffool@hust.edu.cn](mailto:deadfffool@hust.edu.cn)
-
-[GitHub](https://github.com/deadfffool) |
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=2xGNmhYAAAAJ) |
-[DBLP](https://dblp.org/pid/351/0897.html) |
-[ORCID](https://orcid.org/0000-0002-1143-052X)
+---
+layout: default
+---
 
 ## Education
 
