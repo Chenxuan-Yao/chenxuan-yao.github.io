@@ -7,7 +7,7 @@ layout: default
 **Huazhong University of Science and Technology**, Wuhan, China  
 *Ph.D. in Computer Science and Technology, 2025 – Present*
 
-Research interests: ML Systems, Computer Architecture, and Storage Systems.
+Research interests: AI infrastructure, Storage for AI.
 
 **Huazhong University of Science and Technology**, Wuhan, China  
 *B.S. in Computer Science and Technology, 2021 – 2025*
@@ -45,10 +45,12 @@ Research interests: ML Systems, Computer Architecture, and Storage Systems.
 ## Honors
 
 - Outstanding Graduate (优秀毕业生)
-- Scholarship of National Encouragement (国家励志奖学金)
-- Outstanding Undergraduate in Academic Performance (本科生特优生)
-- Outstanding Student Cadre (优秀学生干部)
-- Scholarship of Academic Excellence (学习优秀奖学金)
+- National Encouragement Scholarship (国家励志奖学金)
+- Outstanding Undergraduate Student (本科生特优生)
+- Outstanding Student Leader (优秀学生干部)
+- University-level Outstanding Student (校三好学生)
+- Science and Technology Innovation Scholarship (科技创新奖学金)
+- Academic Excellence Scholarship (学习优秀奖学金)
 
 ## Skills
 
