@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chenxuan Yao
+description: Chenxuan Yao is a Ph.D. student at Huazhong University of Science and Technology, working on AI infrastructure and storage for AI.
 ---
 
 ## Education
